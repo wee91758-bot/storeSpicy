@@ -1,0 +1,16 @@
+{
+  "name": "Mon Store Perso",
+  "identifier": "com.monpseudo.monstore",
+  "subtitle": "Apps gratuites",
+  "description": "Mon dépôt d'applications personnalisé",
+  "apps": [
+    {
+      "name": "Mon App",
+      "bundleIdentifier": "com.monpseudo.monapp",
+      "developerName": "Créateur",
+      "version": "1.0.0",
+      "versionDate": "2026-05-30",
+      "downloadURL": "https://LIEN_DE_TON_FICHIER_IPA.ipa",
+      "localizedDescription": "Description de l'application.",
+      "iconURL": "https://LIEN_DE_TON_ICONE.png",
+      "size": 50000000
